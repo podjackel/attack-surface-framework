@@ -25,7 +25,7 @@ Latest version of Kali Linux (tested on 64 bits) - https://kali.org/get-kali/
 As root
 
 ```
-1. git clone https://gitlab.eng.vmware.com/redteam/asfv2.git /opt/asf
+1. git clone https://github.com/vmware-labs/attack-surface-framework.git /opt/asf
 2. cd /opt/asf/
 3. Generate a .env.prod file or move from backup.env.prod and make necessary changes. 
 Run `./setup.sh`
